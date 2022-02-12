@@ -12,9 +12,7 @@ This project was a code refactor that accomplishes the following tasks:
 
 ## Usage
 
-INLCUDE LINK TO DEPLOYED APPLICATION**
-
-INCLUDE SCREENSHOTS**
+![WebsiteLink](https://tparlmer.github.io/Challenge_1/)
 
 ![Original Mockup](/urban-octo-telegram/Develop/assets/images/original-mockup.png "Original Mockup")
 
