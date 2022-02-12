@@ -10,11 +10,15 @@ This project was a code refactor that accomplishes the following tasks:
 3. The application's css file is properly commented.
 4. accessibility has been enanced by adding descriptive alt attributes to html img elements
 
-## Usage
+## Technologies
+
+Utilized HTML and CSS for this project.
+
+## Link and Screenshot
 
 ![WebsiteLink](https://tparlmer.github.io/Challenge_1/)
 
-![Original Mockup](/urban-octo-telegram/Develop/assets/images/original-mockup.png "Original Mockup")
+![Original Mockup](/urban-octo-telegram/assets/images/original-mockup.png "Original Mockup")
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
